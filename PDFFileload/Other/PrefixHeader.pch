@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  PDFFileload
+//
+//  Created by YXZT on 16/10/17.
+//  Copyright © 2016年 YXZT. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//获取屏幕宽高
+#define Main_Screen_Width [UIScreen mainScreen].bounds.size.width
+#define Main_Screen_Height [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_pch */
